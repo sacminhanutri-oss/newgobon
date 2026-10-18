@@ -1,5 +1,11 @@
 [[redirects]]
   from = "/"
+  to = "/verificar"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/verificar"
   to = "https://remix-branch-chat.lovable.app/verificar"
   status = 200
   force = true
