@@ -1,4 +1,28 @@
 [[redirects]]
+  from = "/"
+  to = "https://remix-branch-chat.lovable.app/verificacao"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/index.html"
+  to = "https://remix-branch-chat.lovable.app/verificacao"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/verificacao"
+  to = "https://remix-branch-chat.lovable.app/verificacao"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/produto"
+  to = "/oferta.html"
+  status = 200
+  force = true
+
+[[redirects]]
   from = "/pagamento"
   to = "https://remix-branch-chat.lovable.app/pagamento"
   status = 200
