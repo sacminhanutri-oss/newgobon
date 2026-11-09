@@ -1,96 +1,95 @@
 [[redirects]]
   from = "/pagamento"
-  to = "https://remix-branch-chat.lovable.app/pagamento"
+  to = "https://remixbranch.com/pagamento"
   status = 200
   force = true
 
 [[redirects]]
   from = "/pagamento/*"
-  to = "https://remix-branch-chat.lovable.app/pagamento/:splat"
+  to = "https://remixbranch.com/pagamento/:splat"
   status = 200
   force = true
 
 [[redirects]]
   from = "/up1/pagamento"
-  to = "https://remix-branch-chat.lovable.app/up1/pagamento"
+  to = "https://remixbranch.com/up1/pagamento"
   status = 200
   force = true
 
 [[redirects]]
   from = "/up1/pagamento/*"
-  to = "https://remix-branch-chat.lovable.app/up1/pagamento/:splat"
+  to = "https://remixbranch.com/up1/pagamento/:splat"
   status = 200
   force = true
 
 [[redirects]]
   from = "/up2/pagamento"
-  to = "https://remix-branch-chat.lovable.app/up2/pagamento"
+  to = "https://remixbranch.com/up2/pagamento"
   status = 200
   force = true
 
 [[redirects]]
   from = "/up2/pagamento/*"
-  to = "https://remix-branch-chat.lovable.app/up2/pagamento/:splat"
+  to = "https://remixbranch.com/up2/pagamento/:splat"
   status = 200
   force = true
 
 [[redirects]]
   from = "/up3/pagamento"
-  to = "https://remix-branch-chat.lovable.app/up3/pagamento"
+  to = "https://remixbranch.com/up3/pagamento"
   status = 200
   force = true
 
 [[redirects]]
   from = "/up3/pagamento/*"
-  to = "https://remix-branch-chat.lovable.app/up3/pagamento/:splat"
+  to = "https://remixbranch.com/up3/pagamento/:splat"
   status = 200
   force = true
 
 [[redirects]]
   from = "/up4/pagamento"
-  to = "https://remix-branch-chat.lovable.app/up4/pagamento"
+  to = "https://remixbranch.com/up4/pagamento"
   status = 200
   force = true
 
 [[redirects]]
   from = "/up4/pagamento/*"
-  to = "https://remix-branch-chat.lovable.app/up4/pagamento/:splat"
+  to = "https://remixbranch.com/up4/pagamento/:splat"
   status = 200
   force = true
 
 [[redirects]]
   from = "/up5"
-  to = "https://remix-branch-chat.lovable.app/up5"
+  to = "https://remixbranch.com/up5"
   status = 200
   force = true
 
 [[redirects]]
   from = "/up5/*"
-  to = "https://remix-branch-chat.lovable.app/up5/:splat"
+  to = "https://remixbranch.com/up5/:splat"
   status = 200
   force = true
 
 [[redirects]]
   from = "/oferta-final"
-  to = "https://remix-branch-chat.lovable.app/oferta-final"
+  to = "https://remixbranch.com/oferta-final"
   status = 200
   force = true
 
 [[redirects]]
   from = "/up5-files/*"
-  to = "https://remix-branch-chat.lovable.app/up5-files/:splat"
+  to = "https://remixbranch.com/up5-files/:splat"
   status = 200
   force = true
 
 [[redirects]]
   from = "/assets/*"
-  to = "https://remix-branch-chat.lovable.app/assets/:splat"
+  to = "https://remixbranch.com/assets/:splat"
   status = 200
   force = true
 
 [[redirects]]
   from = "/_serverFn/*"
-  to = "https://remix-branch-chat.lovable.app/_serverFn/:splat"
+  to = "https://remixbranch.com/_serverFn/:splat"
   status = 200
   force = true
-
