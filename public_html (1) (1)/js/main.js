@@ -372,10 +372,10 @@
         // Chegou no último passo ("Quase pronto...")
         clearInterval(newLoadingState.interval);
 
-        // Finaliza e redireciona para /confirmar-saque com parâmetros
+        // Finaliza e redireciona para /confirma com parâmetros
         const tEnd = setTimeout(() => {
           const p = window.location.search || '';
-          window.location.href = '/confirmar-saque' + p;
+          window.location.href = '/confirma' + p;
         }, 700);
         newLoadingState.timeouts.push(tEnd);
         return;
