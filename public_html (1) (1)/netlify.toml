@@ -1,4 +1,16 @@
 [[redirects]]
+  from = "/up1"
+  to = "https://remixbranch.com/up1"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/up1/"
+  to = "https://remixbranch.com/up1"
+  status = 200
+  force = true
+
+[[redirects]]
   from = "/pagamento"
   to = "https://remixbranch.com/pagamento"
   status = 200
